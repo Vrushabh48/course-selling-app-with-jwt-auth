@@ -1,11 +1,11 @@
-## Create a course selling website
+## Created a course selling website
 
 ### Description
 
-Same as the last assignment but you need to use jwts for authentication.
-We have introduced the signgin endpoints for both users and admins.
-For this one, in every authenticated requests, you need to send the jwt in headers (Authorization : "Bearer <actual token>").
-You need to use mongodb to store all the data persistently.
+Used jwts for authentication.
+Introduced the signgin endpoints for both users and admins.
+For this one, in every authenticated requests,  sent the jwt in headers (Authorization : "Bearer <actual token>").
+Use mongodb to store all the data persistently.
 
 ## Routes
 
